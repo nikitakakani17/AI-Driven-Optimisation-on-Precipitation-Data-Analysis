@@ -12,10 +12,13 @@ This algorithum creates using multiple .python scripts (Including step-by-step p
 - Python: 3.10
 
 # Setup Instructions:
-1. Clone Repository of this project
+1. Clone Repository of this project (https://github.com/nikitakakani17/AI-Driven-Optimisation-on-Precipitation-Data-Analysis.git)
 2. pip install -r requirements.txt
 3. Verify Dataset Ensure that the Cleaned_Data/ folder contains:
    - Dataset.xlsx
+   - New.xlsx
+   - BiasCorrectedData.xlsx
+   - UpdatedDataset.xlsx
   
 # How to run the code step-by-step phases:
 1. Exploratory Data Analysis (Before Data Processing)
