@@ -1,23 +1,23 @@
 # AI-Driven-Optimisation-on-Precipitation-Data-Analysis
 
-#Overview:
+# Overview:
 This repository provides steps to create an algorithum for forcasting rainfall estimation on four different gauge station in Terhan and four satellite-based product. 
 
 This algorithum creates using multiple .python scripts (Including step-by-step process to improve accuracy of precipitation data.
 
-#System Specification:
+# System Specification:
 -	System: MacBook Air
 -	M2 Chip / 8GB
 -	OS: Ventura 13.4
 - Python: 3.10
 
-#Setup Instructions:
+# Setup Instructions:
 1. Clone Repository of this project
 2. pip install -r requirements.txt
 3. Verify Dataset Ensure that the Cleaned_Data/ folder contains:
    - Dataset.xlsx
   
-#How to run the code step-by-step phases:
+# How to run the code step-by-step phases:
 1. Exploratory Data Analysis (Before Data Processing)
    - Script: **EDAbeforeDP.py**
    - The purpose is to identify missing data patterns, precipitation distribution trends, and time-series variations in satellite estimations when compared to in situ ground measurements. (Gives you the plots)
